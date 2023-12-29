@@ -211,7 +211,7 @@ You can now call the server endpoint.
 $ curl --request GET --url http://localhost:8080/vets
 ```
 
-You should have seen the code break on the marked line and now you are able to use the debugger just like you would normally. You can also inspect and watch variables, set conditional breakpoints, view stack traces and a do bunch of other stuff.
+You should have seen the code break on the marked line and now you are able to use the debugger just like you would normally. You can also inspect and watch variables, set conditional breakpoints, view stack traces and do a bunch of other stuff.
 
 ![Debugger code breakpoint](images/debugger-breakpoint.webp)
 
